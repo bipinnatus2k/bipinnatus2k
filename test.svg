@@ -125,7 +125,3 @@
   z M220.419,161.981h27.241v23.35h-27.241V161.981z M264.34,185.331v-23.35h27.241v23.35H264.34z" />
 
 </svg>
-
-<button onclick="animateHouse()"> Build! </button>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"></script>

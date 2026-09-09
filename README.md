@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![示例SVG](https://github.com/b307ff64-73e0-4b99-9f3b-570947d5f981)
+![示例SVG](https://raw.githubusercontent.com/bipinnatus2k/bipinnatus2k/refs/heads/main/test.svg)
 
 <!---
 bipinnatus2k/bipinnatus2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
